@@ -1,0 +1,1278 @@
+
+========================= AGE =========================
+
+Top 3:
+Ashley Young (2024-2025 Everton Stats
+(Premier League)): 39.00
+James Milner (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 39.00
+Łukasz Fabiański (2024-2025 West Ham United Stats
+(Premier League)): 39.00
+
+Bottom 3:
+Mikey Moore (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 17.00
+Ayden Heaven (2024-2025 Manchester United Stats
+(Premier League)): 18.00
+Ethan Nwaneri (2024-2025 Arsenal Stats
+(Premier League)): 18.00
+
+========================= MATCHES_PLAYED =========================
+
+Top 3:
+Anthony Elanga (2024-2025 Nottingham Forest Stats
+(Premier League)): 32.00
+Bryan Mbeumo (2024-2025 Brentford Stats
+(Premier League)): 32.00
+David Raya (2024-2025 Arsenal Stats
+(Premier League)): 32.00
+
+Bottom 3:
+Ayden Heaven (2024-2025 Manchester United Stats
+(Premier League)): 2.00
+Ben Godfrey (2024-2025 Ipswich Town Stats
+(Premier League)): 2.00
+Billy Gilmour (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 2.00
+
+========================= STARTS =========================
+
+Top 3:
+Bryan Mbeumo (2024-2025 Brentford Stats
+(Premier League)): 32.00
+David Raya (2024-2025 Arsenal Stats
+(Premier League)): 32.00
+James Tarkowski (2024-2025 Everton Stats
+(Premier League)): 32.00
+
+Bottom 3:
+Ali Al Hamadi (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+Antony (2024-2025 Manchester United Stats
+(Premier League)): 0.00
+Ben Chilwell (2024-2025 Crystal Palace Stats
+(Premier League)): 0.00
+
+========================= MINUTES =========================
+
+Top 3:
+David Raya (2024-2025 Arsenal Stats
+(Premier League)): 2880.00
+Jordan Pickford (2024-2025 Everton Stats
+(Premier League)): 2880.00
+Matz Sels (2024-2025 Nottingham Forest Stats
+(Premier League)): 2880.00
+
+Bottom 3:
+Harrison Reed (2024-2025 Fulham Stats
+(Premier League)): 93.00
+Ayden Heaven (2024-2025 Manchester United Stats
+(Premier League)): 95.00
+Jahmai Simpson-Pusey (2024-2025 Manchester City Stats
+(Premier League)): 96.00
+
+========================= GOALS =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 27.00
+Erling Haaland (2024-2025 Manchester City Stats
+(Premier League)): 21.00
+Alexander Isak (2024-2025 Newcastle United Stats
+(Premier League)): 20.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= ASSISTS =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 18.00
+Antonee Robinson (2024-2025 Fulham Stats
+(Premier League)): 10.00
+Bukayo Saka (2024-2025 Arsenal Stats
+(Premier League)): 10.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= YELLOW_CARDS =========================
+
+Top 3:
+Saša Lukić (2024-2025 Fulham Stats
+(Premier League)): 12.00
+Flynn Downes (2024-2025 Southampton Stats
+(Premier League)): 10.00
+João Gomes (2024-2025 Wolverhampton Wanderers Stats
+(Premier League)): 10.00
+
+Bottom 3:
+Abdul Fatawu Issahaku (2024-2025 Leicester City Stats
+(Premier League)): 0.00
+Adam Webster (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 0.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= RED_CARDS =========================
+
+Top 3:
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 2.00
+Jack Stephens (2024-2025 Southampton Stats
+(Premier League)): 2.00
+Myles Lewis-Skelly (2024-2025 Arsenal Stats
+(Premier League)): 2.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Aaron Wan-Bissaka (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+
+========================= XG =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 22.60
+Erling Haaland (2024-2025 Manchester City Stats
+(Premier League)): 20.80
+Alexander Isak (2024-2025 Newcastle United Stats
+(Premier League)): 16.60
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+Adam Webster (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 0.00
+
+========================= XAG =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 12.10
+Cole Palmer (2024-2025 Chelsea Stats
+(Premier League)): 9.20
+Son Heung-min (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 8.20
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= PRGC =========================
+
+Top 3:
+Jeremy Doku (2024-2025 Manchester City Stats
+(Premier League)): 169.00
+Kaoru Mitoma (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 135.00
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 133.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= PRGP =========================
+
+Top 3:
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 254.00
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 225.00
+Bruno Guimarães (2024-2025 Newcastle United Stats
+(Premier League)): 217.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alisson (2024-2025 Liverpool Stats
+(Premier League)): 0.00
+
+========================= PRGR =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 398.00
+Bryan Mbeumo (2024-2025 Brentford Stats
+(Premier League)): 292.00
+Kaoru Mitoma (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 274.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= GLS/90 =========================
+
+Top 3:
+Ryan Sessegnon (2024-2025 Fulham Stats
+(Premier League)): 1.41
+James Mcatee (2024-2025 Manchester City Stats
+(Premier League)): 1.21
+Donyell Malen (2024-2025 Aston Villa Stats
+(Premier League)): 1.04
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= AST/90 =========================
+
+Top 3:
+Bukayo Saka (2024-2025 Arsenal Stats
+(Premier League)): 0.66
+Danny Ings (2024-2025 West Ham United Stats
+(Premier League)): 0.63
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 0.57
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= XG/90 =========================
+
+Top 3:
+James Mcatee (2024-2025 Manchester City Stats
+(Premier League)): 1.10
+Marco Asensio (2024-2025 Aston Villa Stats
+(Premier League)): 0.86
+Erling Haaland (2024-2025 Manchester City Stats
+(Premier League)): 0.76
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+Adam Webster (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 0.00
+
+========================= XGA/90 =========================
+
+Top 3:
+Mykhailo Mudryk (2024-2025 Chelsea Stats
+(Premier League)): 0.58
+Luis Sinisterra (2024-2025 Bournemouth Stats
+(Premier League)): 0.54
+Philip Billing (2024-2025 Bournemouth Stats
+(Premier League)): 0.54
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= SOT% =========================
+
+Top 3:
+Adam Webster (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 100.00
+Archie Gray (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 100.00
+Harry Clarke (2024-2025 Ipswich Town Stats
+(Premier League)): 100.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+Adam Lallana (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= SOT/90 =========================
+
+Top 3:
+Julio Enciso (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 3.37
+Donyell Malen (2024-2025 Aston Villa Stats
+(Premier League)): 2.43
+Ryan Sessegnon (2024-2025 Fulham Stats
+(Premier League)): 2.36
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= G/SH =========================
+
+Top 3:
+John Stones (2024-2025 Manchester City Stats
+(Premier League)): 1.00
+Myles Lewis-Skelly (2024-2025 Arsenal Stats
+(Premier League)): 1.00
+Axel Disasi (2024-2025 Chelsea Stats
+(Premier League)): 0.50
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+Abdul Fatawu Issahaku (2024-2025 Leicester City Stats
+(Premier League)): 0.00
+
+========================= DIST =========================
+
+Top 3:
+Ibrahim Sangaré (2024-2025 Nottingham Forest Stats
+(Premier League)): 32.00
+Welington (2024-2025 Southampton Stats
+(Premier League)): 31.90
+Ryan Fraser (2024-2025 Southampton Stats
+(Premier League)): 31.60
+
+Bottom 3:
+Kieran Tierney (2024-2025 Arsenal Stats
+(Premier League)): 2.60
+Harry Clarke (2024-2025 Ipswich Town Stats
+(Premier League)): 4.50
+William Saliba (2024-2025 Arsenal Stats
+(Premier League)): 4.50
+
+========================= CMP =========================
+
+Top 3:
+Virgil van Dijk (2024-2025 Liverpool Stats
+(Premier League)): 2294.00
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 2079.00
+Levi Colwill (2024-2025 Chelsea Stats
+(Premier League)): 2036.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 13.00
+Odsonne Édouard (2024-2025 Crystal Palace Stats
+(Premier League)): 17.00
+Callum Wilson (2024-2025 Newcastle United Stats
+(Premier League)): 23.00
+
+========================= CMP% =========================
+
+Top 3:
+Manuel Akanji (2024-2025 Manchester City Stats
+(Premier League)): 93.90
+Nathan Aké (2024-2025 Manchester City Stats
+(Premier League)): 93.90
+William Saliba (2024-2025 Arsenal Stats
+(Premier League)): 93.70
+
+Bottom 3:
+Matz Sels (2024-2025 Nottingham Forest Stats
+(Premier League)): 50.60
+George Hirst (2024-2025 Ipswich Town Stats
+(Premier League)): 54.10
+Beto (2024-2025 Everton Stats
+(Premier League)): 57.20
+
+========================= TOTDIST =========================
+
+Top 3:
+Virgil van Dijk (2024-2025 Liverpool Stats
+(Premier League)): 41794.00
+Levi Colwill (2024-2025 Chelsea Stats
+(Premier League)): 36960.00
+William Saliba (2024-2025 Arsenal Stats
+(Premier League)): 34672.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 135.00
+Odsonne Édouard (2024-2025 Crystal Palace Stats
+(Premier League)): 230.00
+Ali Al Hamadi (2024-2025 Ipswich Town Stats
+(Premier League)): 278.00
+
+========================= SHORT_CMP% =========================
+
+Top 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 100.00
+Antonín Kinský (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 100.00
+Arijanet Muric (2024-2025 Ipswich Town Stats
+(Premier League)): 100.00
+
+Bottom 3:
+Paul Onuachu (2024-2025 Southampton Stats
+(Premier League)): 62.90
+Rodrigo Muniz (2024-2025 Fulham Stats
+(Premier League)): 67.70
+Ramón Sosa (2024-2025 Nottingham Forest Stats
+(Premier League)): 68.20
+
+========================= MEDIUM_CMP% =========================
+
+Top 3:
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 100.00
+Caoimhín Kelleher (2024-2025 Liverpool Stats
+(Premier League)): 100.00
+Danny Ward (2024-2025 Leicester City Stats
+(Premier League)): 100.00
+
+Bottom 3:
+George Hirst (2024-2025 Ipswich Town Stats
+(Premier League)): 42.90
+Beto (2024-2025 Everton Stats
+(Premier League)): 49.20
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 50.00
+
+========================= LONG_CMP% =========================
+
+Top 3:
+Andy Irving (2024-2025 West Ham United Stats
+(Premier League)): 100.00
+Antony (2024-2025 Manchester United Stats
+(Premier League)): 100.00
+Chiedozie Ogbene (2024-2025 Ipswich Town Stats
+(Premier League)): 100.00
+
+Bottom 3:
+Enes Ünal (2024-2025 Bournemouth Stats
+(Premier League)): 0.00
+Evan Ferguson (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+George Hirst (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= KP =========================
+
+Top 3:
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 77.00
+Cole Palmer (2024-2025 Chelsea Stats
+(Premier League)): 75.00
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 73.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alphonse Areola (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+
+========================= 1/3 =========================
+
+Top 3:
+Alex Iwobi (2024-2025 Fulham Stats
+(Premier League)): 90.00
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 89.00
+Jeremy Doku (2024-2025 Manchester City Stats
+(Premier League)): 79.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= PPA =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 78.00
+Alex Iwobi (2024-2025 Fulham Stats
+(Premier League)): 68.00
+Martin Ødegaard (2024-2025 Arsenal Stats
+(Premier League)): 65.00
+
+Bottom 3:
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= CRSPA =========================
+
+Top 3:
+Antonee Robinson (2024-2025 Fulham Stats
+(Premier League)): 26.00
+Pedro Porro (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 22.00
+Milos Kerkez (2024-2025 Bournemouth Stats
+(Premier League)): 20.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdoulaye Doucouré (2024-2025 Everton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= PRGP/PASSING =========================
+
+Top 3:
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 254.00
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 225.00
+Bruno Guimarães (2024-2025 Newcastle United Stats
+(Premier League)): 217.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alisson (2024-2025 Liverpool Stats
+(Premier League)): 0.00
+
+========================= TOUCHES =========================
+
+Top 3:
+Virgil van Dijk (2024-2025 Liverpool Stats
+(Premier League)): 2819.00
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 2615.00
+Levi Colwill (2024-2025 Chelsea Stats
+(Premier League)): 2506.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 38.00
+Odsonne Édouard (2024-2025 Crystal Palace Stats
+(Premier League)): 45.00
+Ali Al Hamadi (2024-2025 Ipswich Town Stats
+(Premier League)): 53.00
+
+========================= DEF PEN =========================
+
+Top 3:
+Mark Flekken (2024-2025 Brentford Stats
+(Premier League)): 1225.00
+Bernd Leno (2024-2025 Fulham Stats
+(Premier League)): 972.00
+André Onana (2024-2025 Manchester United Stats
+(Premier League)): 951.00
+
+Bottom 3:
+Emi Buendía (2024-2025 Aston Villa Stats
+(Premier League)): 0.00
+Callum Wilson (2024-2025 Newcastle United Stats
+(Premier League)): 1.00
+Evan Ferguson (2024-2025 West Ham United Stats
+(Premier League)): 1.00
+
+========================= DEF 3RD =========================
+
+Top 3:
+Mark Flekken (2024-2025 Brentford Stats
+(Premier League)): 1521.00
+Jordan Pickford (2024-2025 Everton Stats
+(Premier League)): 1355.00
+André Onana (2024-2025 Manchester United Stats
+(Premier League)): 1235.00
+
+Bottom 3:
+Odsonne Édouard (2024-2025 Crystal Palace Stats
+(Premier League)): 4.00
+Callum Wilson (2024-2025 Newcastle United Stats
+(Premier League)): 5.00
+Ali Al Hamadi (2024-2025 Ipswich Town Stats
+(Premier League)): 6.00
+
+========================= MID 3RD =========================
+
+Top 3:
+Virgil van Dijk (2024-2025 Liverpool Stats
+(Premier League)): 1561.00
+Moisés Caicedo (2024-2025 Chelsea Stats
+(Premier League)): 1348.00
+William Saliba (2024-2025 Arsenal Stats
+(Premier League)): 1324.00
+
+Bottom 3:
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Danny Ward (2024-2025 Leicester City Stats
+(Premier League)): 0.00
+Fraser Forster (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 0.00
+
+========================= ATT 3RD =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 943.00
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 825.00
+Bryan Mbeumo (2024-2025 Brentford Stats
+(Premier League)): 820.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= ATT PEN =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 298.00
+Erling Haaland (2024-2025 Manchester City Stats
+(Premier League)): 170.00
+Antoine Semenyo (2024-2025 Bournemouth Stats
+(Premier League)): 169.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= ATT =========================
+
+Top 3:
+Trent Alexander-Arnold (2024-2025 Liverpool Stats
+(Premier League)): 99.00
+Alexis Mac Allister (2024-2025 Liverpool Stats
+(Premier League)): 91.00
+Elliot Anderson (2024-2025 Nottingham Forest Stats
+(Premier League)): 90.00
+
+Bottom 3:
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+Armando Broja (2024-2025 Everton Stats
+(Premier League)): 0.00
+
+========================= SUCC% =========================
+
+Top 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 100.00
+Alisson (2024-2025 Liverpool Stats
+(Premier League)): 100.00
+Andy Irving (2024-2025 West Ham United Stats
+(Premier League)): 100.00
+
+Bottom 3:
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Armel Bella Kotchap (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= TKLD% =========================
+
+Top 3:
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 100.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 100.00
+Armel Bella Kotchap (2024-2025 Southampton Stats
+(Premier League)): 100.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Alisson (2024-2025 Liverpool Stats
+(Premier League)): 0.00
+Andy Irving (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+
+========================= CARRIES =========================
+
+Top 3:
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 1688.00
+Virgil van Dijk (2024-2025 Liverpool Stats
+(Premier League)): 1589.00
+Jan Paul van Hecke (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 1471.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 18.00
+Odsonne Édouard (2024-2025 Crystal Palace Stats
+(Premier League)): 23.00
+Kosta Nedeljković (2024-2025 Aston Villa Stats
+(Premier League)): 27.00
+
+========================= PRODIST =========================
+
+Top 3:
+Jan Paul van Hecke (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 9213.00
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 8875.00
+Rúben Dias (2024-2025 Manchester City Stats
+(Premier League)): 7837.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 79.00
+Harrison Reed (2024-2025 Fulham Stats
+(Premier League)): 95.00
+Kosta Nedeljković (2024-2025 Aston Villa Stats
+(Premier League)): 101.00
+
+========================= PROGC =========================
+
+Top 3:
+Jeremy Doku (2024-2025 Manchester City Stats
+(Premier League)): 169.00
+Kaoru Mitoma (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 135.00
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 133.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= CPA =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 107.00
+Jeremy Doku (2024-2025 Manchester City Stats
+(Premier League)): 77.00
+Noni Madueke (2024-2025 Chelsea Stats
+(Premier League)): 74.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= MIS =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 99.00
+Liam Delap (2024-2025 Ipswich Town Stats
+(Premier League)): 92.00
+Morgan Rogers (2024-2025 Aston Villa Stats
+(Premier League)): 89.00
+
+Bottom 3:
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alphonse Areola (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Antonín Kinský (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 0.00
+
+========================= DIS =========================
+
+Top 3:
+Mohammed Kudus (2024-2025 West Ham United Stats
+(Premier League)): 83.00
+Bruno Guimarães (2024-2025 Newcastle United Stats
+(Premier League)): 71.00
+Dejan Kulusevski (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 70.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= REC =========================
+
+Top 3:
+Virgil van Dijk (2024-2025 Liverpool Stats
+(Premier League)): 1931.00
+Joško Gvardiol (2024-2025 Manchester City Stats
+(Premier League)): 1911.00
+Levi Colwill (2024-2025 Chelsea Stats
+(Premier League)): 1835.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 21.00
+Odsonne Édouard (2024-2025 Crystal Palace Stats
+(Premier League)): 26.00
+Neto (2024-2025 Bournemouth Stats
+(Premier League)): 28.00
+
+========================= PRGR =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 398.00
+Bryan Mbeumo (2024-2025 Brentford Stats
+(Premier League)): 292.00
+Kaoru Mitoma (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 274.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= TKL =========================
+
+Top 3:
+Idrissa Gana Gueye (2024-2025 Everton Stats
+(Premier League)): 116.00
+Daniel Muñoz (2024-2025 Crystal Palace Stats
+(Premier League)): 100.00
+Noussair Mazraoui (2024-2025 Manchester United Stats
+(Premier League)): 95.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= TKLW =========================
+
+Top 3:
+Idrissa Gana Gueye (2024-2025 Everton Stats
+(Premier League)): 70.00
+Daniel Muñoz (2024-2025 Crystal Palace Stats
+(Premier League)): 65.00
+Moisés Caicedo (2024-2025 Chelsea Stats
+(Premier League)): 58.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= LOST =========================
+
+Top 3:
+Chris Wood (2024-2025 Nottingham Forest Stats
+(Premier League)): 117.00
+Jean-Philippe Mateta (2024-2025 Crystal Palace Stats
+(Premier League)): 93.00
+Jørgen Strand Larsen (2024-2025 Wolverhampton Wanderers Stats
+(Premier League)): 91.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= BLOCKS =========================
+
+Top 3:
+Nathan Collins (2024-2025 Brentford Stats
+(Premier League)): 68.00
+Murillo (2024-2025 Nottingham Forest Stats
+(Premier League)): 64.00
+Alexis Mac Allister (2024-2025 Liverpool Stats
+(Premier League)): 57.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= SH =========================
+
+Top 3:
+Nathan Collins (2024-2025 Brentford Stats
+(Premier League)): 48.00
+Dara O'Shea (2024-2025 Ipswich Town Stats
+(Premier League)): 45.00
+James Tarkowski (2024-2025 Everton Stats
+(Premier League)): 42.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdul Fatawu Issahaku (2024-2025 Leicester City Stats
+(Premier League)): 0.00
+Adama Traoré (2024-2025 Fulham Stats
+(Premier League)): 0.00
+
+========================= PASS =========================
+
+Top 3:
+Alexis Mac Allister (2024-2025 Liverpool Stats
+(Premier League)): 52.00
+Antoine Semenyo (2024-2025 Bournemouth Stats
+(Premier League)): 47.00
+Tyrick Mitchell (2024-2025 Crystal Palace Stats
+(Premier League)): 45.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+
+========================= INT =========================
+
+Top 3:
+Aaron Wan-Bissaka (2024-2025 West Ham United Stats
+(Premier League)): 57.00
+Ryan Gravenberch (2024-2025 Liverpool Stats
+(Premier League)): 54.00
+Antonee Robinson (2024-2025 Fulham Stats
+(Premier League)): 53.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= SCA =========================
+
+Top 3:
+Cole Palmer (2024-2025 Chelsea Stats
+(Premier League)): 175.00
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 156.00
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 139.00
+
+Bottom 3:
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Ben Mee (2024-2025 Brentford Stats
+(Premier League)): 0.00
+Benoît Badiashile (2024-2025 Chelsea Stats
+(Premier League)): 0.00
+
+========================= SCA90 =========================
+
+Top 3:
+Philip Billing (2024-2025 Bournemouth Stats
+(Premier League)): 7.83
+Luis Guilherme (2024-2025 West Ham United Stats
+(Premier League)): 7.38
+Kevin De Bruyne (2024-2025 Manchester City Stats
+(Premier League)): 6.40
+
+Bottom 3:
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Ben Mee (2024-2025 Brentford Stats
+(Premier League)): 0.00
+Benoît Badiashile (2024-2025 Chelsea Stats
+(Premier League)): 0.00
+
+========================= GCA =========================
+
+Top 3:
+Mohamed Salah (2024-2025 Liverpool Stats
+(Premier League)): 24.00
+Bukayo Saka (2024-2025 Arsenal Stats
+(Premier League)): 21.00
+Mikkel Damsgaard (2024-2025 Brentford Stats
+(Premier League)): 18.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= GCA90 =========================
+
+Top 3:
+Bukayo Saka (2024-2025 Arsenal Stats
+(Premier League)): 1.38
+Harvey Elliott (2024-2025 Liverpool Stats
+(Premier League)): 1.10
+Mikey Moore (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 0.97
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= FLS =========================
+
+Top 3:
+Liam Delap (2024-2025 Ipswich Town Stats
+(Premier League)): 63.00
+Antoine Semenyo (2024-2025 Bournemouth Stats
+(Premier League)): 62.00
+João Gomes (2024-2025 Wolverhampton Wanderers Stats
+(Premier League)): 62.00
+
+Bottom 3:
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alisson (2024-2025 Liverpool Stats
+(Premier League)): 0.00
+
+========================= FLD =========================
+
+Top 3:
+Bruno Guimarães (2024-2025 Newcastle United Stats
+(Premier League)): 94.00
+James Maddison (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 63.00
+John McGinn (2024-2025 Aston Villa Stats
+(Premier League)): 60.00
+
+Bottom 3:
+Alphonse Areola (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Andrés García (2024-2025 Aston Villa Stats
+(Premier League)): 0.00
+Antonín Kinský (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 0.00
+
+========================= OFF =========================
+
+Top 3:
+Dominic Calvert-Lewin (2024-2025 Everton Stats
+(Premier League)): 27.00
+Jamie Vardy (2024-2025 Leicester City Stats
+(Premier League)): 23.00
+Chris Wood (2024-2025 Nottingham Forest Stats
+(Premier League)): 22.00
+
+Bottom 3:
+Aaron Cresswell (2024-2025 West Ham United Stats
+(Premier League)): 0.00
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Abdukodir Khusanov (2024-2025 Manchester City Stats
+(Premier League)): 0.00
+
+========================= CRS =========================
+
+Top 3:
+Pedro Porro (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 168.00
+Bryan Mbeumo (2024-2025 Brentford Stats
+(Premier League)): 163.00
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 162.00
+
+Bottom 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+
+========================= RECOV =========================
+
+Top 3:
+Moisés Caicedo (2024-2025 Chelsea Stats
+(Premier League)): 184.00
+Bruno Fernandes (2024-2025 Manchester United Stats
+(Premier League)): 182.00
+Ryan Christie (2024-2025 Bournemouth Stats
+(Premier League)): 182.00
+
+Bottom 3:
+Danny Ward (2024-2025 Leicester City Stats
+(Premier League)): 1.00
+Fraser Forster (2024-2025 Tottenham Hotspur Stats
+(Premier League)): 1.00
+Hákon Rafn Valdimarsson (2024-2025 Brentford Stats
+(Premier League)): 1.00
+
+========================= WON =========================
+
+Top 3:
+Dan Burn (2024-2025 Newcastle United Stats
+(Premier League)): 115.00
+Virgil van Dijk (2024-2025 Liverpool Stats
+(Premier League)): 102.00
+James Tarkowski (2024-2025 Everton Stats
+(Premier League)): 100.00
+
+Bottom 3:
+Andrés García (2024-2025 Aston Villa Stats
+(Premier League)): 0.00
+Antony (2024-2025 Manchester United Stats
+(Premier League)): 0.00
+Billy Gilmour (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 0.00
+
+========================= WON% =========================
+
+Top 3:
+Aaron Ramsdale (2024-2025 Southampton Stats
+(Premier League)): 1.00
+Albert Grønbaek (2024-2025 Southampton Stats
+(Premier League)): 1.00
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 1.00
+
+Bottom 3:
+Andrés García (2024-2025 Aston Villa Stats
+(Premier League)): 0.00
+Antony (2024-2025 Manchester United Stats
+(Premier League)): 0.00
+Emi Buendía (2024-2025 Aston Villa Stats
+(Premier League)): 0.00
+
+========================= GA90 =========================
+
+Top 3:
+Danny Ward (2024-2025 Leicester City Stats
+(Premier League)): 4.00
+Christian Walton (2024-2025 Ipswich Town Stats
+(Premier League)): 2.67
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 2.60
+
+Bottom 3:
+Jason Steele (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 0.50
+David Raya (2024-2025 Arsenal Stats
+(Premier League)): 0.84
+Alisson (2024-2025 Liverpool Stats
+(Premier League)): 0.87
+
+========================= SAVE% =========================
+
+Top 3:
+Neto (2024-2025 Bournemouth Stats
+(Premier League)): 0.85
+Mark Travers (2024-2025 Bournemouth Stats
+(Premier League)): 0.80
+Robert Sánchez (2024-2025 Chelsea Stats
+(Premier League)): 0.77
+
+Bottom 3:
+Danny Ward (2024-2025 Leicester City Stats
+(Premier League)): 0.40
+Hákon Rafn Valdimarsson (2024-2025 Brentford Stats
+(Premier League)): 0.50
+Robin Olsen (2024-2025 Aston Villa Stats
+(Premier League)): 0.56
+
+========================= CS% =========================
+
+Top 3:
+Hákon Rafn Valdimarsson (2024-2025 Brentford Stats
+(Premier League)): 1.00
+Robin Olsen (2024-2025 Aston Villa Stats
+(Premier League)): 1.00
+Jason Steele (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 0.50
+
+Bottom 3:
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Alex Palmer (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+Danny Ward (2024-2025 Leicester City Stats
+(Premier League)): 0.00
+
+========================= PSAVE% =========================
+
+Top 3:
+Caoimhín Kelleher (2024-2025 Liverpool Stats
+(Premier League)): 1.00
+Jordan Pickford (2024-2025 Everton Stats
+(Premier League)): 1.00
+Dean Henderson (2024-2025 Crystal Palace Stats
+(Premier League)): 0.50
+
+Bottom 3:
+Alex McCarthy (2024-2025 Southampton Stats
+(Premier League)): 0.00
+Arijanet Muric (2024-2025 Ipswich Town Stats
+(Premier League)): 0.00
+Bart Verbruggen (2024-2025 Brighton & Hove Albion Stats
+(Premier League)): 0.00
