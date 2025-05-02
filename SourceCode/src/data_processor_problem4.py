@@ -92,5 +92,5 @@ class DataProcessor:
 
 
 if __name__ == "__main__":
-    processor = DataProcessor(r'data/merge_df.csv')
-    processor.process_pipeline(r'D:\work\football_analysis\data\players_played_more_than_900m.csv')
+    processor = DataProcessor(r'D:\work\football_analysis\SourceCode\data\merge_df.csv')
+    processor.process_pipeline(r'D:\work\football_analysis\SourceCode\data\players_played_more_than_900m.csv')

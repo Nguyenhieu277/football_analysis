@@ -7,8 +7,9 @@ from scipy.stats import randint, uniform
 import time
 import xgboost as xgb
 from sklearn.linear_model import LinearRegression
+import joblib # Import joblib
 
-df = pd.read_csv(r'data/players_played_more_than_900m.csv')
+df = pd.read_csv(r'D:\work\football_analysis\SourceCode\data\players_played_more_than_900m.csv')
 
 X = df[['age', 'xG', 'Att Pen', 'SCA', 'xG/90', 'PrgP/passing', 'PPA', 'SoT/90', 'GCA', 'Att 3rd', 'Medium_Cmp%', 'TklW', 'ProDist', 'Cmp%']]
 y = df['Value']
@@ -148,6 +149,12 @@ results_df = results_df.sort_values(by='Best MAE (Tuned CV)')
 
 overall_best_model_name = results_df.index[0]
 overall_best_estimator = best_estimators[overall_best_model_name]
+
+
+model_filename = f'D:/work/football_analysis/SourceCode/trained_model/best_{overall_best_model_name.lower()}_model.pkl' 
+joblib.dump(overall_best_estimator, model_filename)
+print(f"Best model ({overall_best_model_name}) saved to {model_filename}")
+
 
 y_pred_test_final = overall_best_estimator.predict(X_test)
 final_mae = mean_absolute_error(y_test, y_pred_test_final)

@@ -8,7 +8,7 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
 from sklearn.impute import SimpleImputer
 
-df = pd.read_csv("data/results.csv")
+df = pd.read_csv(r"D:\work\football_analysis\SourceCode\data\results.csv")
 
 percent_cols = ['Won%', 'Save%', 'CS%', 'PSave%']
 for col in percent_cols:

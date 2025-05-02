@@ -9,7 +9,7 @@ from sklearn.feature_selection import RFE, SelectKBest, f_regression
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
-df = pd.read_csv(r'data/players_played_more_than_900m.csv')
+df = pd.read_csv(r'D:\work\football_analysis\SourceCode\data\players_played_more_than_900m.csv')
 
 feature_names = df.drop(['player', 'team', 'nation', 'Value'], axis=1).columns.tolist()  
 X = df[feature_names]

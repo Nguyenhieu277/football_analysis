@@ -169,7 +169,7 @@ class TransferScraper:
             df = self.filter_players()
             if df is not None:
                 print(df)
-                df.to_csv("data/filtered_players.csv", index=False)
+                df.to_csv(r"D:\work\football_analysis\SourceCode\data\filtered_players.csv", index=False)
         except Exception as e:
             pass
 
