@@ -1,13 +1,10 @@
 import pandas as pd
-import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.feature_selection import RFE, SelectKBest, f_regression
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler
+
 
 df = pd.read_csv(r'D:\work\football_analysis\SourceCode\data\players_played_more_than_900m.csv')
 

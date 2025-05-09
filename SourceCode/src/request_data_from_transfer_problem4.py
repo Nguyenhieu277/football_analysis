@@ -7,6 +7,7 @@ import numpy as np
 import os
 from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
+import ast
 
 
 load_dotenv()
@@ -66,36 +67,27 @@ class TransferScraper:
             return False
         except Exception as e:
             return False
+
+    def parse_embedding(self, embedding_str):
+        
+        if pd.isna(embedding_str):
+            return None
+        try:
+            return ast.literal_eval(embedding_str)
+        except (ValueError, SyntaxError):
+            return None
     
-     
-    
-    def filter_players(self):
+    def filter_players(self, similarity_threshold=0.8, min_minutes=900):
         if not self.all_transfers:
             return None
 
+        
         df = pd.concat(self.all_transfers)
         df.columns = ["Player", "Age", "Team", "Estimated Value"]
-        print(df.head())
-        try:
-            player_df = pd.read_csv("data/results.csv")
-        except Exception as e:
-            print(f"Error reading CSV: {e}")
-            return None
-
-        minutes_col = 'minutes'
-        player_col = 'player'
-
-        if minutes_col not in player_df.columns or player_col not in player_df.columns:
-            print("Missing required columns in results.csv")
-            return None
-
-        player_df_filtered = player_df[player_df[minutes_col] > 900]
-        player_df_filtered.to_csv(r'data.csv')
-        eligible_players = player_df_filtered[player_col].tolist()
-
-        # Get embeddings
-        print("Generating embeddings for scraped players...")
         df = df.dropna()
+
+        
+        print("Generating embeddings for scraped players")
         embeddings = []
         for idx, player_name in enumerate(df['Player']):
             print(f"Embedding {idx+1}/{len(df)}: {player_name}")
@@ -103,62 +95,78 @@ class TransferScraper:
             embeddings.append(emb)
 
         df['embedding'] = embeddings
-        df.to_csv('embed_df.csv')
-        print(df.head())
-        print("Generating embeddings for eligible players...")
+        df.to_csv(r'D:\work\football_analysis\embed_df.csv')
+
+        
+        player_df = pd.read_csv(r"D:\work\football_analysis\SourceCode\data\results.csv")
+
+        
+        player_df_filtered = player_df[player_df['minutes'] > min_minutes]
+
+        
+        print("Generating embeddings for eligible players")
         eligible_embeddings = []
-        for idx, player_name in enumerate(player_df_filtered[player_col]):
+        for idx, player_name in enumerate(player_df_filtered['player']):
             print(f"Embedding {idx+1}/{len(player_df_filtered)}: {player_name}")
             emb = get_embedding(player_name)
             eligible_embeddings.append(emb)
 
         player_df_filtered['embedding'] = eligible_embeddings
-        #eligible_embeddings = np.array(eligible_embeddings)
-        player_df_filtered.to_csv('embed_df2.csv')
-        # Compute cosine similarity
-        # Trước khi vào loop: cần làm sạch eligible_embeddings
+        player_df_filtered.to_csv(r'D:\work\football_analysis\embed_df2.csv')
+
+        
         eligible_embeddings_clean = []
         eligible_players_clean = []
-
+        
         for idx, emb in enumerate(eligible_embeddings):
             if emb is not None:
                 eligible_embeddings_clean.append(emb)
-                eligible_players_clean.append(eligible_players[idx])
+                eligible_players_clean.append(player_df_filtered.iloc[idx]['player'])
+
+        if not eligible_embeddings_clean:         
+            return None
 
         eligible_embeddings_clean = np.array(eligible_embeddings_clean)
 
-        # Now matching
+       
         matches = []
         matched_names = []
 
         for i, emb in enumerate(df['embedding']):
             if emb is None:
                 continue
+                
             emb = np.array(emb).reshape(1, -1)
             
             similarities = cosine_similarity(emb, eligible_embeddings_clean)
             max_sim_idx = similarities.argmax()
             max_sim_val = similarities[0, max_sim_idx]
-
-            if max_sim_val >= 0.8:
+            
+            if max_sim_val >= similarity_threshold:
                 matches.append(i)
                 matched_names.append(eligible_players_clean[max_sim_idx])
 
+        
         filtered_df = df.iloc[matches].copy()
         filtered_df['Matched Name'] = matched_names
+        
         result_df = pd.merge(
             filtered_df,
-            player_df_filtered[[player_col, minutes_col]],
+            player_df_filtered[['player', 'minutes']],
             left_on='Matched Name',
-            right_on=player_col,
+            right_on='player',
             how='left'
         )
 
-
-        cols_to_keep = ["Matched Name", "Age", "Team", minutes_col, "Estimated Value"]
+        
+        cols_to_keep = ["Matched Name", "Age", "Team", "minutes", "Estimated Value"]
         result_df = result_df[cols_to_keep]
+        result_df = result_df.drop_duplicates(subset=['Matched Name'], keep='first')
 
-        return result_df  
+    
+        result_df.to_csv(r"D:\work\football_analysis\SourceCode\data\filtered_players.csv", index=False)
+        return result_df
+
     def run(self):
         try:
             for page in range(1, self.lastpage + 1):
@@ -169,8 +177,8 @@ class TransferScraper:
             df = self.filter_players()
             if df is not None:
                 print(df)
-                df.to_csv(r"D:\work\football_analysis\SourceCode\data\filtered_players.csv", index=False)
         except Exception as e:
+            print(f"Error in run method: {e}")
             pass
 
 if __name__ == "__main__":

@@ -21,7 +21,7 @@ This project analyzes and models player performance and market value data for th
 - `pandas`, `numpy`, `scikit-learn`
 - `xgboost`, `matplotlib`, `seaborn`
 - `BeautifulSoup`, `Selenium` (for scraping)
-
+- `Google API` (to using that please get API key on [AIstudio](https://aistudio.google.com/))
 ---
 
 ## ⚙️ Models Used
