@@ -7,7 +7,7 @@ from scipy.stats import randint, uniform
 import time
 import xgboost as xgb
 from sklearn.linear_model import LinearRegression
-import joblib # Import joblib
+import joblib 
 
 df = pd.read_csv(r'D:\work\football_analysis\SourceCode\data\players_played_more_than_900m.csv')
 
@@ -86,7 +86,7 @@ for model_name, config in tuning_config.items():
         scoring='neg_mean_absolute_error',
         n_jobs=-1,
         random_state=42,
-        verbose=1 # Keep verbose=1 to see scikit-learn's internal logging
+        verbose=1 
     )
     random_search.fit(X_train, y_train)
     best_params_random = random_search.best_params_
@@ -98,7 +98,7 @@ for model_name, config in tuning_config.items():
     # --- Grid Search ---
     print(f"\nStarting Grid Search for {model_name} based on Randomized Search results...")
     param_grid = config["param_grid"](best_params_random)
-    # --- Parameter validation/cleaning (existing code) ---
+
     for key, values in param_grid.items():
         valid_values = []
         seen = set()
@@ -116,7 +116,7 @@ for model_name, config in tuning_config.items():
                  unique_valid_values.append(v)
                  seen.add(v_hashable)
         param_grid[key] = unique_valid_values
-    # --- End Parameter validation/cleaning ---
+
     print(f"Grid Search Parameter Grid for {model_name}: {param_grid}")
 
     grid_search = GridSearchCV(
@@ -125,7 +125,7 @@ for model_name, config in tuning_config.items():
         cv=n_folds,
         scoring='neg_mean_absolute_error',
         n_jobs=-1,
-        verbose=1 # Keep verbose=1 to see scikit-learn's internal logging
+        verbose=1 
     )
     grid_search.fit(X_train, y_train)
     best_params_grid = grid_search.best_params_
